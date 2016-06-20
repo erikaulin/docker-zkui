@@ -1,2 +1,2 @@
 # zkui
-Zookeeper UI in a Docker container
+[Zookeeper UI](https://github.com/DeemOpen/zkui) in a Docker container
